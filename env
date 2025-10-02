@@ -1,0 +1,3 @@
+BACKEND_URL=https://data.solanatracker.io
+BACKEND_API_KEY=e51fe6f4-b675-42e7-a10f-33c2229426eb
+NEXT_PUBLIC_LUMA_MINT_ADDRESS=dummymint
